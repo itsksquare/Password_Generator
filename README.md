@@ -10,17 +10,3 @@ Password generator project I learnt
 <p align="center">
     <img src="./assets/img/sample.png">
 <p/>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-##### Credits
-
-[Brad Traversy](https://github.com/bradtraversy)
