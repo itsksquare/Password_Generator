@@ -1,19 +1,18 @@
-@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
-
 * {
   box-sizing: border-box;
 }
 
 body {
-  background-color: #ffffff;
+  background-color: #242424;
   color: #fff;
   display: flex;
-  font-family: "Muli", sans-serif;
+  font-family: "Open Sans", sans-serif;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   padding: 10px;
   min-height: 100vh;
+  overflow: hidden;
 }
 
 p {
@@ -38,8 +37,8 @@ input[type="checkbox"] {
 }
 
 .result-container {
-  background-color: #ffffff;
-  color: #000000;
+  background-color: #242424;
+  color: #ffffff;
   display: flex;
   justify-content: flex-start;
   align-items: center;
@@ -71,7 +70,7 @@ input[type="checkbox"] {
   cursor: pointer;
   font-size: 16px;
   padding: 8px 12px;
-  background-color: #0101bd;
+  background-color: #0050ac;
 }
 
 .btn-large {
