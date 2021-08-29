@@ -73,9 +73,9 @@ input[type="checkbox"] {
   background-color: #0050ac;
 }
 
-.btn-large {
+.btn-medium {
   display: block;
-  width: 100%;
+  width: 35%;
 }
 
 .setting {
@@ -83,6 +83,12 @@ input[type="checkbox"] {
   justify-content: space-between;
   align-items: center;
   margin: 15px 0;
+}
+
+.container .buttons {
+  display: flex;
+  text-align: center;
+  justify-content: space-evenly;
 }
 
 @media screen and (max-width: 400px) {

@@ -18,9 +18,6 @@
       <h2>PASSWORD GENERATOR</h2>
       <div class="result-container">
         <span id="result"></span>
-        <button class="btn" id="clipboard">
-          <i class="far fa-clipboard"></i>
-        </button>
       </div>
       <div class="settings">
         <div class="setting">
@@ -44,7 +41,12 @@
           <input type="checkbox" id="symbols" checked />
         </div>
       </div>
-      <button class="btn btn-large" id="generate">Generate</button>
+      <div class="buttons">
+        <button class="btn btn-medium" id="clipboard">
+          <i class="far fa-clipboard"></i> Copy
+        </button>
+        <button class="btn btn-medium" id="generate">Generate</button>
+      </div>
     </div>
     <script src="./assets/script.js"></script>
   </body>
