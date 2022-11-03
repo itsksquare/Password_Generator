@@ -2,7 +2,7 @@
 
 Password generator project I learnt
 
-[Live Example](https://itsksquare.github.io/Password-Generator/)
+[Live Example](https://itsksquare.github.io/Password_Generator/)
 
 <br>
 <br>
