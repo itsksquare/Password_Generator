@@ -1,6 +1,6 @@
 <h1 align="center">Password Generator</h1>
 
-Password generator project I learnt
+Random Password Generator, web based, with options to include uppercase, lowercase, numbers and symbols.
 
 [Live Example](https://itsksquare.github.io/Password-Generator/)
 
