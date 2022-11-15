@@ -2,7 +2,7 @@
 
 Random Password Generator, web based, with options to include uppercase, lowercase, numbers and symbols.
 
-[Live Example](https://itsksquare.github.io/Password-Generator/)
+[Live Example](https://itsksquare.github.io/Password_Generator/)
 
 <br>
 <br>
